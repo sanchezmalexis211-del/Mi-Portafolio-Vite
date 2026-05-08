@@ -121,7 +121,7 @@ export default function Home() {
       >
         <div className="grid grid-cols-1 md:grid-cols-2 gap-20">
           <motion.div variants={fadeInUp}>
-             <h2 className="text-4xl font-black mb-8 tracking-tighter uppercase">Estratega Tecnológico</h2>
+             <h2 className="text-4xl font-black mb-8 tracking-tighter uppercase">Sobre Mi</h2>
              <p className="text-neutral-400 text-lg font-light leading-relaxed mb-6">
                Como estudiante de octavo semestre, he desarrollado un perfil híbrido. Repleto de diferentes capacidades, cuento con conocimientos en hardware y software, lo que me ha hecho desarrollarme de mejor forma en la resolución de problemas. De igual forma, cuento con la capacidad de poder expresarme de forma eficiente, algo que no es común en cuanto a este tipo de perfil.
              </p>
