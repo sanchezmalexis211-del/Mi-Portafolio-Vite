@@ -104,7 +104,7 @@ export default function Home() {
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent opacity-90" />
                 <div className="absolute bottom-8 left-8 right-8 text-left">
-                    <p className="text-xs font-bold text-cyan-400 tracking-[0.2em] uppercase">Multi-Stack Developer & Tech Speake</p>
+                    <p className="text-xs font-bold text-cyan-400 tracking-[0.2em] uppercase">Multi-Stack Developer & Tech Speaker</p>
                     <p className="text-3xl font-black text-white tracking-tighter mt-1 uppercase">Alan Sánchez</p>
                 </div>
               </div>
@@ -163,7 +163,7 @@ export default function Home() {
             <SpecialtyCard icon={BrainCircuit} title="Machine Learning" desc="Entrenamiento de modelos predictivos y visión computacional avanzados con Python." tags={["Python", "AI"]} color="purple" />
             <SpecialtyCard icon={Network} title="Infraestructura" desc="Diseño de redes  y seguridad CCTV industrial." tags={["Redes", "IoT", "CCTV"]} color="emerald" />
             <SpecialtyCard icon={MicVocal} title="Speaker & Leadership" desc="Oratoria efectiva, presentación de proyectos y dirección de equipos bajo metodologías ágiles." tags={["Speaker", "Tech Lead"]} color="yellow" />
-            <SpecialtyCard icon={TrendingUp} title="Marketing & Negocio" desc="Visión comercial para transformar ideas técnicas en modelos de negocio rentables." tags={["Strategy", "Business"]} color="pink" />
+            <SpecialtyCard icon={TrendingUp} title="Marketing & Negocio" desc="Visión comercial para transformar ideas técnicas en modelos de negocio rentables." tags={["Estrategias", "Negocios"]} color="pink" />
             <SpecialtyCard icon={Palette} title="Diseño UI/UX" desc="Conceptualización y diseño de productos digitales centrados en la estética moderna con usabilidad." tags={["Figma", "UI Design"]} color="blue" />
           </motion.div>
         </div>
