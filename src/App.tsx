@@ -123,7 +123,7 @@ export default function Home() {
           <motion.div variants={fadeInUp}>
              <h2 className="text-4xl font-black mb-8 tracking-tighter uppercase">Estratega Tecnológico</h2>
              <p className="text-neutral-400 text-lg font-light leading-relaxed mb-6">
-               Como estudiante de octavo semestre, he desarrollado un perfil híbrido que domina desde la infraestructura física hasta el software inteligente. No solo construyo sistemas; diseño soluciones que escalan.
+               Como estudiante de octavo semestre, he desarrollado un perfil híbrido. Repleto de diferentes capacidades, cuento con conocimientos en hardware y software, lo que me ha hecho desarrollarme de mejor forma en la resolución de problemas. De igual forma, cuento con la capacidad de poder expresarme de forma eficiente, algo que no es común en cuanto a este tipo de perfil.
              </p>
              <p className="text-neutral-400 text-lg font-light leading-relaxed">
                Mi diferenciador clave es  <strong className="font-bold text-white"> el liderazgo (Speaker)</strong>. Capacidad comprobada para dirigir equipos multidisciplinarios y comunicar visiones técnicas a stakeholders de negocio.
@@ -160,7 +160,7 @@ export default function Home() {
           >
             <SpecialtyCard icon={Layers3} title="Desarrollo Frontend" desc="Interfaces inmersivas de alto rendimiento con Next.js y React. Enfoque en performance extrema." tags={["React", "Next.js"]} color="cyan" />
             <SpecialtyCard icon={BrainCircuit} title="Machine Learning" desc="Entrenamiento de modelos predictivos y visión computacional avanzados con Python." tags={["Python", "AI"]} color="purple" />
-            <SpecialtyCard icon={Network} title="Infraestructura" desc="Diseño de redes críticas, telemetría LoRa para ganadería y seguridad CCTV industrial." tags={["Redes", "IoT", "CCTV"]} color="emerald" />
+            <SpecialtyCard icon={Network} title="Infraestructura" desc="Diseño de redes  y seguridad CCTV industrial." tags={["Redes", "IoT", "CCTV"]} color="emerald" />
             <SpecialtyCard icon={MicVocal} title="Speaker & Leadership" desc="Oratoria efectiva, presentación de proyectos y dirección de equipos bajo metodologías ágiles." tags={["Speaker", "Tech Lead"]} color="yellow" />
             <SpecialtyCard icon={TrendingUp} title="Marketing & Negocio" desc="Visión comercial para transformar ideas técnicas en modelos de negocio rentables." tags={["Strategy", "Business"]} color="pink" />
             <SpecialtyCard icon={Palette} title="Diseño UI/UX" desc="Conceptualización y diseño de productos digitales centrados en la estética moderna con usabilidad." tags={["Figma", "UI Design"]} color="blue" />
